@@ -1,12 +1,59 @@
-# React + Vite
+# FindVendor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FindVendor is a web application that helps users locate vendors in different categories, such as car washes, home cleaning services, and more. The app features a search bar, category filter, interactive map, and a dark mode toggle for better user experience.
 
-Currently, two official plugins are available:
+## Live Demo
+[FindVendor Live](https://findvendor.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- 🔍 **Search Vendors** by name or category
+- 📍 **Interactive Map** to show vendor locations
+- 🌙 **Dark Mode Toggle** for a comfortable viewing experience
+- ⭐ **Ratings Display** with stars and numeric values
+- 📞 **Contact Button** (currently showing a dummy message)
 
-## Expanding the ESLint configuration
+## Screenshot
+![FindVendor Screenshot](screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Map Integration:** Leaflet.js
+- **Deployment:** Netlify
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/IRFAN-KHAN-git/FindVendor.git
+   cd FindVendor
+   ```
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+3. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/FindVendor.git
+   cd FindVendor
+   ```
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+3. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+
