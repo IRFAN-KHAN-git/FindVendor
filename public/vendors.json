@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John's Car Wash",
+    "category": "Car Wash",
+    "address": "123 Main Street, Delhi",
+    "latitude": 28.7041,
+    "longitude": 77.1025,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Sparkle Home Cleaning",
+    "category": "Home Cleaning",
+    "address": "456 Elm Street, Mumbai",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "rating": 3.8
+  },
+  {
+    "id": 3,
+    "name": "TechFix Laptop Repair",
+    "category": "Electronics Repair",
+    "address": "789 Tech Street, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Green Thumb Landscaping",
+    "category": "Gardening",
+    "address": "101 Greenway Road, Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "rating": 3.9
+  },
+  {
+    "id": 5,
+    "name": "Elite Catering Services",
+    "category": "Catering",
+    "address": "202 Food Lane, Hyderabad",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "AutoPro Mechanics",
+    "category": "Car Repair",
+    "address": "303 Garage Street, Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "rating": 3.5
+  },
+  {
+    "id": 7,
+    "name": "Shiny Nails & Spa",
+    "category": "Beauty Services",
+    "address": "404 Beauty Avenue, Kolkata",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "name": "HomeComfort Plumbing",
+    "category": "Plumbing",
+    "address": "505 Water Street, Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "rating": 3.6
+  },
+  {
+    "id": 9,
+    "name": "FastTrack Movers",
+    "category": "Packers & Movers",
+    "address": "606 Transit Road, Ahmedabad",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "rating": 4.1
+  },
+  {
+    "id": 10,
+    "name": "Gadget Zone Mobile Repair",
+    "category": "Electronics Repair",
+    "address": "707 Phone Plaza, Lucknow",
+    "latitude": 26.8467,
+    "longitude": 80.9462,
+    "rating": 4.0
+  }
+]
