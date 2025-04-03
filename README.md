@@ -39,21 +39,4 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/FindVendor.git
-   cd FindVendor
-   ```
-2. **Install dependencies:**
-   ```sh
-   npm install
-   ```
-3. **Start the development server:**
-   ```sh
-   npm run dev
-   ```
 
